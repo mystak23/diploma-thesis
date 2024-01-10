@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Authomatic_EDR_Detection_Tool.MvcApplication" Language="C#" %>
